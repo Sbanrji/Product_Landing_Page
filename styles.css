@@ -78,4 +78,27 @@ h1{
     color: rgb(49, 48, 48);
     border-bottom: 2px solid rgb(49,48,48);
 }
+#vdo{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    margin:2px auto;
+}
+
+#vdo>iframe{
+    width: 100%;
+    height:600px;
+    
+}
+#features_prices{
+  display: flex;
+  justify-content: space-evenly;
+}
+#horizontal-bar{
+    width:5px;
+    height:300px;
+    background-color: black;
+    margin-top:30px;
+   
+}
 
